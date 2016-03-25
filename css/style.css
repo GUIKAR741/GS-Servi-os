@@ -1,0 +1,16 @@
+/*.img estilo logo*/
+.img{width: 220px;height: 165px;}
+/*Reutilizaveis*/
+.base{padding: 25px; font-size: 18px; background: #dbdbdb}
+.cent{text-align:center;}
+.esq{text-align: left;}
+.dir{text-align: right;}
+.pm0{padding: 0px;margin: 0px;}
+/*NÃO REUTILIZAVEIS*/
+.imgind{width: 85%; padding-left: 185px;}
+.cor{background-color: #e9e9e9;}
+.busca{padding-top: 16px;}
+.navi{background-color: #e1e1e1;}
+/*imagens rodape thumbnails*/
+.rodapei img{width: 200px;height: 242px;}
+.rodapei #php{width: 100%;height: 250px;}
