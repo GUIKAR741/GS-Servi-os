@@ -9,3 +9,10 @@ html5
 css3
 js
 php
+
+V1.7
+Alteração do arquivo 
+login
+criação dos arquivos
+cadastro(formulario cadastro ja feito arquivo OK!)
+senha(recuperação de senha não concluido nenhuma alteração igual template)
