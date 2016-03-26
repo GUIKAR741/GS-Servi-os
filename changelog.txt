@@ -16,3 +16,7 @@ login
 criação dos arquivos
 cadastro(formulario cadastro ja feito arquivo OK!)
 senha(recuperação de senha não concluido nenhuma alteração igual template)
+
+V1.7.5
+Arquivo senha foi mandado com edição errada
+erro corrigido
